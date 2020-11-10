@@ -1,0 +1,51 @@
+#categoryName{
+    height: 50px;
+    border: 2px solid grey;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: -10px;
+    margin-right: -15px;
+    margin-left: -16px;
+}
+
+#subcategoryName{
+    display: block;
+    height: 50px;
+    border: 2px solid grey;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 0px;
+    margin-right: -15px;
+    margin-left: -16px;
+    color: black;
+    list-style-type: none;
+    font-weight: normal;
+
+}
+
+#subcategories{
+    text-decoration: none;
+    margin-top: 100px;
+}
+
+#categoryName:hover{
+    
+    background-color: grey;
+    cursor: pointer;
+}
+
+#subcategoryName:hover{
+    text-decoration: none;
+    background-color: grey;
+    cursor: pointer;
+}
+
+#categoryName::after{
+    background-color: gray;
+}
+
+#angleright{
+    position: absolute;
+    right: 30px;
+    margin-top: 5px;
+}

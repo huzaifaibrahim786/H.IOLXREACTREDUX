@@ -1,0 +1,19 @@
+.footerNav{
+    background-color: #EBEEEF;
+}
+
+.bottom{
+    background-color: #002F34;
+}
+.title{
+    font-weight: bolder;
+}
+
+li{
+    color: Black;
+    font-size: 13px;
+}
+
+li .mt-n3,li .tops{
+   color: gray;
+}

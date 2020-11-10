@@ -1,0 +1,428 @@
+{
+  "Categories" : {
+    "Animals" : {
+      "name" : "Animals",
+      "subCategories" : {
+        "Birds" : {
+          "name" : "Birds"
+        },
+        "Cats" : {
+          "name" : "Cats"
+        },
+        "Dogs" : {
+          "name" : "Dogs"
+        },
+        "Fish & Aquariums" : {
+          "name" : "Fish & Aquariums"
+        },
+        "Hens & Aseel" : {
+          "name" : "Hens & Aseel"
+        },
+        "Horses" : {
+          "name" : "Horses"
+        },
+        "Livestock" : {
+          "name" : "Livestock"
+        },
+        "Other Animals" : {
+          "name" : "Other Animals"
+        },
+        "Pet Food & Accessories" : {
+          "name" : "Pet Food & Accessories"
+        }
+      }
+    },
+    "Bikes" : {
+      "name" : "Bikes",
+      "subCategories" : {
+        "ATV & Quads" : {
+          "name" : "ATV & Quads"
+        },
+        "Bicycles" : {
+          "name" : "Bicycles"
+        },
+        "Motorcycles" : {
+          "name" : "Motorcycles"
+        },
+        "Scooters" : {
+          "name" : "Scooters"
+        },
+        "Spare Parts" : {
+          "name" : "Spare Parts"
+        }
+      }
+    },
+    "Books, Sports & Hobbies" : {
+      "name" : "Books, Sports & Hobbies",
+      "subCategories" : {
+        "Books & Magazines" : {
+          "name" : "Books & Magazines"
+        },
+        "Gym & Fitness" : {
+          "name" : "Gym & Fitness"
+        },
+        "Musical Instruments" : {
+          "name" : "Musical Instruments"
+        },
+        "Other Hobbies" : {
+          "name" : "Other Hobbies"
+        },
+        "Sports Equipments" : {
+          "name" : "Sports Equipments"
+        }
+      }
+    },
+    "Business, Industrial & Agriculture" : {
+      "name" : "Business, Industrial & Agriculture",
+      "subCategories" : {
+        "Agriculture" : {
+          "name" : "Agriculture"
+        },
+        "Business for Sale" : {
+          "name" : "Business for Sale"
+        },
+        "Construction & Heavy Machinery" : {
+          "name" : "Construction & Heavy Machinery"
+        },
+        "Food & Restaurants" : {
+          "name" : "Food & Restaurants"
+        },
+        "Medical & Pharma" : {
+          "name" : "Medical & Pharma"
+        },
+        "Other Business & Industry" : {
+          "name" : "Other Business & Industry"
+        },
+        "Trade & Industrial" : {
+          "name" : "Trade & Industrial"
+        }
+      }
+    },
+    "Electronics & Home Appliances" : {
+      "name" : "Electronics & Home Appliances",
+      "subCategories" : {
+        "AC & Coolers" : {
+          "name" : "AC & Coolers"
+        },
+        "Cameras & Accessories" : {
+          "name" : "Cameras & Accessories"
+        },
+        "Computer & Accessories" : {
+          "name" : "Computer & Accessories"
+        },
+        "Fridges & Freezers" : {
+          "name" : "Fridges & Freezers"
+        },
+        "Games & Entertainment" : {
+          "name" : "Games & Entertainment"
+        },
+        "Generators, UPS & power Solutions" : {
+          "name" : "Generators, UPS & power Solutions"
+        },
+        "Kitchen Appliances" : {
+          "name" : "Kitchen Appliances"
+        },
+        "Other Home Appliances" : {
+          "name" : "Other Home Appliances"
+        },
+        "TV - Video - Audio" : {
+          "name" : "TV - Video - Audio"
+        },
+        "Washing Machines & Dryers" : {
+          "name" : "Washing Machines & Dryers"
+        }
+      }
+    },
+    "Fashion & Beauty" : {
+      "name" : "Fashion & Beauty",
+      "subCategories" : {
+        "Accessories" : {
+          "name" : "Accessories"
+        },
+        "Clothes" : {
+          "name" : "Clothes"
+        },
+        "Couture" : {
+          "name" : "Couture"
+        },
+        "Footwear" : {
+          "name" : "Footwear"
+        },
+        "Jewellery" : {
+          "name" : "Jewellery"
+        },
+        "Lawn & Pret" : {
+          "name" : "Lawn & Pret"
+        },
+        "Make Up" : {
+          "name" : "Make Up"
+        },
+        "Other Fashion" : {
+          "name" : "Other Fashion"
+        },
+        "Skin & Hair" : {
+          "name" : "Skin & Hair"
+        },
+        "Watches" : {
+          "name" : "Watches"
+        },
+        "Wedding" : {
+          "name" : "Wedding"
+        }
+      }
+    },
+    "Furniture & Home Decor" : {
+      "name" : "Furniture & Home Decor",
+      "subCategories" : {
+        "Beds & Wardrobes" : {
+          "name" : "Beds & Wardrobes"
+        },
+        "Curtains & Blinds" : {
+          "name" : "Curtains & Blinds"
+        },
+        "Garden & Outdoor" : {
+          "name" : "Garden & Outdoor"
+        },
+        "Home Decoration" : {
+          "name" : "Home Decoration"
+        },
+        "Office Furniture" : {
+          "name" : "Office Furniture"
+        },
+        "Other Household Items" : {
+          "name" : "Other Household Items"
+        },
+        "Painting & Mirrors" : {
+          "name" : "Painting & Mirrors"
+        },
+        "Rugs & Carpets" : {
+          "name" : "Rugs & Carpets"
+        },
+        "Sofa & Chairs" : {
+          "name" : "Sofa & Chairs"
+        },
+        "Tables & Dining" : {
+          "name" : "Tables & Dining"
+        }
+      }
+    },
+    "Jobs" : {
+      "name" : "Jobs",
+      "subCategories" : {
+        "Accounting & Finance" : {
+          "name" : "Accounting & Finance"
+        },
+        "Advertising & PR" : {
+          "name" : "Advertising & PR"
+        },
+        "Clerical & Administration" : {
+          "name" : "Clerical & Administration"
+        },
+        "Customer Service" : {
+          "name" : "Customer Service"
+        },
+        "Domestic Staff" : {
+          "name" : "Domestic Staff"
+        },
+        "Education" : {
+          "name" : "Education"
+        },
+        "Hotels & Tourism" : {
+          "name" : "Hotels & Tourism"
+        },
+        "Human Resources" : {
+          "name" : "Human Resources"
+        },
+        "IT & Networking" : {
+          "name" : "IT & Networking"
+        },
+        "Manufacturing" : {
+          "name" : "Manufacturing"
+        },
+        "Marketing" : {
+          "name" : "Marketing"
+        },
+        "Medical" : {
+          "name" : "Medical"
+        },
+        "Online" : {
+          "name" : "Online"
+        },
+        "Other Jobs" : {
+          "name" : "Other Jobs"
+        },
+        "Part - Time" : {
+          "name" : "Part - Time"
+        },
+        "Sales" : {
+          "name" : "Sales"
+        }
+      }
+    },
+    "Kids" : {
+      "name" : "Kids",
+      "subCategories" : {
+        "Kids Accessories" : {
+          "name" : "Kids Accessories"
+        },
+        "Kids Bikes" : {
+          "name" : "Kids Bikes"
+        },
+        "Kids Furniture" : {
+          "name" : "Kids Furniture"
+        },
+        "Prams & Walkers" : {
+          "name" : "Prams & Walkers"
+        },
+        "Swings & Slides" : {
+          "name" : "Swings & Slides"
+        },
+        "Toys" : {
+          "name" : "Toys"
+        }
+      }
+    },
+    "Mobiles" : {
+      "name " : "Mobiles",
+      "subCategories" : {
+        "Accessories" : {
+          "name" : "Accessories"
+        },
+        "Mobile Phones" : {
+          "name" : "Mobile Phones"
+        },
+        "Tablets" : {
+          "name" : "Tablets"
+        }
+      }
+    },
+    "Property for Rent" : {
+      "name" : "Property for Rent",
+      "subCategories" : {
+        "Apartments & Flats" : {
+          "name" : "Apartments & Flats"
+        },
+        "Houses" : {
+          "name" : "Houses"
+        },
+        "Land & Plots" : {
+          "name" : "Land & Plots"
+        },
+        "Portion & Floors" : {
+          "name" : "Portion & Floors"
+        },
+        "Roommates & Paying Guests" : {
+          "name" : "Roommates & Paying Guests"
+        },
+        "Rooms" : {
+          "name" : "Rooms"
+        },
+        "Shops - Offices - Commercial Space" : {
+          "name" : "Shops - Offices - Commercial Space"
+        },
+        "Vacation Rentals - Guest Houses" : {
+          "name" : "Vacation Rentals - Guest Houses"
+        }
+      }
+    },
+    "Property for Sale" : {
+      "name" : "Property for Sale",
+      "subCategories" : {
+        "Apartments & Flats" : {
+          "name" : "Apartments & Flats"
+        },
+        "Houses" : {
+          "name" : "Houses"
+        },
+        "Land & Plots" : {
+          "name" : "Land & Plots"
+        },
+        "Portions & Floors" : {
+          "name" : "Portions & Floors"
+        },
+        "Shops - Offices - Commercial Space" : {
+          "name" : "Shops - Offices - Commercial Space"
+        }
+      }
+    },
+    "Services" : {
+      "name" : "Services",
+      "subCategories" : {
+        "Car Rental" : {
+          "name" : "Car Rental"
+        },
+        "Catering & Restaurant" : {
+          "name" : "Catering & Restaurant"
+        },
+        "Drivers & Taxi" : {
+          "name" : "Drivers & Taxi"
+        },
+        "Education & Classes" : {
+          "name" : "Education & Classes"
+        },
+        "Electronics & Computer Repair" : {
+          "name" : "Electronics & Computer Repair"
+        },
+        "Event Services" : {
+          "name" : "Event Services"
+        },
+        "Farm & Fresh Food" : {
+          "name" : "Farm & Fresh Food"
+        },
+        "Health & Beauty" : {
+          "name" : "Health & Beauty"
+        },
+        "Home & Office Repair" : {
+          "name" : "Home & Office Repair"
+        },
+        "Maids & Domestic Help" : {
+          "name" : "Maids & Domestic Help"
+        },
+        "Movers & Packers" : {
+          "name" : "Movers & Packers"
+        },
+        "Other Services" : {
+          "name" : "Other Services"
+        },
+        "Travel & Visa" : {
+          "name" : "Travel & Visa"
+        },
+        "Web Development" : {
+          "name" : "Web Development"
+        }
+      }
+    },
+    "Vehicles" : {
+      "name" : "Vehicles",
+      "subCategories" : {
+        "Boats" : {
+          "name" : "Boats"
+        },
+        "Buses, Vans & Trucks" : {
+          "name" : "Buses, Vans & Trucks"
+        },
+        "Cars" : {
+          "name" : "Cars"
+        },
+        "Cars Accessories" : {
+          "name" : "Cars Accessories"
+        },
+        "Cars on Installments" : {
+          "name" : "Cars on Installments"
+        },
+        "Other Vehicles" : {
+          "name" : "Other Vehicles"
+        },
+        "Rickshaw & Chingchi" : {
+          "name" : "Rickshaw & Chingchi"
+        },
+        "Spare Parts" : {
+          "name" : "Spare Parts"
+        },
+        "Tractors & Trailers" : {
+          "name" : "Tractors & Trailers"
+        }
+      }
+    }
+  }
+}
